@@ -9,9 +9,11 @@
 
 ## Data
 - [Open Data set](https://data.go.th/Datasets.aspx) - ศูนย์กลางข้อมูลภาครัฐ (Open Government Data)
- 
+    - [Meta Data](https://www.dga.or.th/th/profile/988/) - คำอธิบายชุดข้อมูล
+
 
 ## Guideline
+- [Data Governance Framework](https://www.dga.or.th/th/profile/2108/) - กรอบการกำกับดูแลข้อมูล
 
 
 ## Standard
