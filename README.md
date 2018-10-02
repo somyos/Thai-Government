@@ -15,7 +15,7 @@
 
 
 ## Standard
-- [WEBSITE SECURITY STANDARD]
+- Website Security Standard
     - [Website Security Standard ](https://standard.etda.or.th/?page_id=7799) - มาตรฐานการรักษาความมั่นคงปลอดภัยสำหรับเว็บไซต์ (WSS)
     - [Web Application Security Standard](https://standard.etda.or.th/?page_id=7799) - มาตรฐานการรักษาความมั่นคงปลอดภัยสำหรับโปรแกรมประยุกต์บนเว็บ (WAS)
 
