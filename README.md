@@ -6,6 +6,7 @@
 
 ## API
 - [CGDContract](https://govspending.data.go.th/api/documentation) - ข้อมูลโครงการจัดซื้อจัดจ้างจากระบบการจัดซื้อจัดจ้างภาครัฐ (Thai Government Procurement)
+- [Thai Government Procurement](http://www.gprocurement.go.th/wps/portal/egp/manual/interface/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziPTx8HA29nQ38_N0djQwCDbzN3L1DDYzDHA31w8EKDHAARwP9KGL041EQhd_4cP0osBJfQ3cjQ2dnA18L1yBXA0dzc99gM0MnQ39LE3QF_mHGZkAFAb7O_oEeBgbOhlAFeCwpyA2NMMj0VAQABV0JHg!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL3Ro/) - การเชื่อมโยงประกาศจัดซื้อจัดจ้างจากระบบ e-GP ไปยังเว็บไซต์หน่วยงานของรัฐในรูปแบบ RSS
 
 ## Data
 - [Open Data set](https://data.go.th/Datasets.aspx) - ศูนย์กลางข้อมูลภาครัฐ (Open Government Data)
