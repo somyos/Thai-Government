@@ -11,8 +11,10 @@
 ## Data
 - [Open Data set](https://data.go.th/Datasets.aspx) - ศูนย์กลางข้อมูลภาครัฐ (Open Government Data)
     - [Meta Data](https://www.dga.or.th/th/profile/988/) - คำอธิบายชุดข้อมูล
+    - [User Manual](https://data.go.th/pages/data-go-th-manual-doc) - คู่มือการใช้งานระบบศูนย์กลางข้อมูลเปิดภาครัฐ (Data.go.th) เวอร์ชัน 3
 - [MHESI Open Data](https://data.mhesi.go.th/) - ศูนย์กลางข้อมูลเปิด (MHESI Open Data)
 - [Open-D](https://gitlab.nectec.or.th/opend) - CKAN Open-D เป็นซอฟแวร์ที่พัฒนาต่อยอดจากซอฟแวร์ CKAN (https://ckan.org/)
+- [ระบบบัญชีข้อมูลภาครัฐ](https://gdcatalog.go.th) - สำนักงานสถิติแห่งชาติ กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม
 
 ## Guideline
 - [Data Governance Framework](https://www.dga.or.th/th/profile/2108/) - กรอบการกำกับดูแลข้อมูล
